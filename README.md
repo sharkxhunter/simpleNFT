@@ -35,7 +35,6 @@ Do NOT use this codes in your production workloads.
 ## Docs
 
 - [Documentation (English)](/docs/en)
-- [ドキュメント (日本語)](/docs/ja)
 
 ## Security
 

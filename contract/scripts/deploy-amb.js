@@ -21,3 +21,4 @@ const account = web3.eth.accounts.privateKeyToAccount(privateKey);
   const createReceipt = await web3.eth.sendSignedTransaction(createTransaction.rawTransaction);
   console.log('Contract deployed at', createReceipt.contractAddress);
 })();
+
